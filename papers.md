@@ -3,7 +3,26 @@ layout: page
 permalink: /papers/
 title: Papers
 pubs:
-
+    - year: "2020"
+      groups:
+        - title:   "Learning image aesthetics by learning inpainting"
+          author:  "June Hao Ching, John See, Lai-Kuan Wong"
+          pub:     "IEEE International Conference on Image Processing (ICIP)"
+          type:     c
+          url:     "https://ieeexplore.ieee.org/abstract/document/9191130"
+          doi:     "https://doi.org/10.1109/ICIP40778.2020.9191130"   
+        - title:   "Image Dehazing With Contextualized Attentive U-NET"
+          author:  "Yean-Wei Lee, Lai-Kuan Wong, John See"
+          pub:     "IEEE International Conference on Image Processing (ICIP)"
+          type:     c
+          url:     "https://ieeexplore.ieee.org/abstract/document/9190725"
+          doi:     "https://doi.org/10.1109/ICIP40778.2020.9190725"    
+        - title:   "Where is the emotion? Dissecting a multi-gap network for image emotion classification"
+          author:  "Lucinda Lim, Huai-Qian Khor, Phatcharawat Chaemchoy, John See, Lai-Kuan Wong"
+          pub:     "IEEE International Conference on Image Processing (ICIP)"
+          type:     c
+          url:     "https://ieeexplore.ieee.org/abstract/document/9191258"
+          doi:     "https://doi.org/10.1109/ICIP40778.2020.9191258"    
     - year: "2019"
       groups:
         - title:   "Dual-stream Shallow Networks for Facial Micro-expression Recognition"
